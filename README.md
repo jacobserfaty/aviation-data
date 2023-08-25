@@ -24,7 +24,7 @@ The bar chart below compares the Make of each flight and the Average Fatality Ra
 
 The combination of higher destruction severity with a lower fatality rate, suggest that the design of the plane by that particular make is safer and more durable.
 
-![bar.png](https://github.com/jacobserfaty/phase-1-aviation-data/blob/master/Images/bar.png)
+![bar.png](https://github.com/jacobserfaty/phase-1-aviation-data/blob/master/Images/scatter.png)
 
 The map below shows the average level of damage aircrafts sustained by country. Flights originating from the United States on average sustain minor damage, while other countries with a sufficient amount of data list more severe levels of damage. The intensity of the color in each country indicate higher fatality rates.
 
